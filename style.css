@@ -1,0 +1,14 @@
+body
+{
+    background-size: cover;
+    background-position: center; 
+}
+
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    font-family:fantasy;
+    padding: 5px;
+}
