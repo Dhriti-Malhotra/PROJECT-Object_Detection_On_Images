@@ -1,9 +1,9 @@
 status = "";
-pencil_case = "";
+tissue_box = "";
 
 function preload()
 {
-    img = loadImage("Pencil_Case.jpg");
+    img = loadImage("Tissue_Box.jpg");
 }
 
 function setup()
